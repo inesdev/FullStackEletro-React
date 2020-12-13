@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#formas-pagamento {
+    text-align: center;
+    color: #01DFD7;
+    font-size: 16px;
+}
+
+.containerp{
+    margin-top:-345px;
+    margin-left:180px;
+}
+
+li {
+    cursor: pointer;
+}
+
+img {
+    cursor: pointer;
+}
+
+h2 {
+    color: #088A85;
+    padding: 20px;
+}
+
+h3 {
+    margin: 0px 0px 20px 0px;
+}
+
+p {
+    color: #088A85;
+}
+
+.textoinicial {
+    padding: 20px;
+}
+
+.menu {
+    font-size: 22px;
+    background-color: #01DFD7;
+    padding: 20px;
+}
+
+.menu a {
+    color: #FFF;
+    background-color: #01DFD7;
+    text-align: left;
+    padding: 20px 10px;
+    margin-right: 197px;
+}
+
+.precoa {
+    text-decoration: line-through;
+}
+.preco {
+    color: red;
+}
+
+.categorias {
+    font-size: 18px;
+    font-weight: bold;
+    display: inline-block;
+    width: 20%;
+    height: 1000px;
+    vertical-align: bottom;
+    color: #088A85;
+    padding: 60px 0px 0px 8px;
+}
+
+.secaoprodutos {
+    height: 1020px;
+    width: 79%;
+    display: inline-block;
+}
+
+.produto {
+    display: inline-block;
+    text-align: center;
+    width: 20%;
+    margin: 12px 0px 0px 32px;
+   /* overflow: hidden; */
+    max-height: 295px;
+
+}       
+
+.lojas {
+    width: 79%;
+    display: inline-block;
+    color: #088A85;
+    margin: 20px 0px 0px 125px;
+    padding: 50px 50px 50px 30px; 
+}
+
+.loja {
+    display: inline-block;
+    width: 20%;
+    padding: 12px 50px 0px 90px;
+    font-size: 18px;
+}
+
+.contatos {
+    width: 79%;
+    display: inline-block;
+    color: #088A85;
+    margin: 20px 0px 0px 125px;
+    padding: 60px 70px 50px 30px;
+}
+
+.contato {
+    display: inline-block;
+    padding: 12px 50px 0px 140px;
+    font-size: 20px;
+}
+
+.rodape {
+    /*position: absolute;*/
+    bottom: 400px;
+    width: 100%;
+}
+
+.descricao {
+    color: #088A85;
+}
+
